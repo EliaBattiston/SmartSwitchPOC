@@ -6,3 +6,6 @@ Arduino code flashed on the NodeMCU board to receive commands and send responses
 
 ## SmartSwitchFlow.json
 Node-RED flow to send commands from a dashboard and update the switch's status on a ThingSpeak channel
+
+## Project Report.pdf
+Detailed explanation of the project
